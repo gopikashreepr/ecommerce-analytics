@@ -50,4 +50,3 @@ Single-page interactive dashboard with 4 KPI cards and 5 visual breakdowns:
 
 ---
 *Project by Gopikashree PR | [LinkedIn](https://www.linkedin.com/in/gopikashree-pr/) | [GitHub](https://github.com/gopikashreepr)*
-EOF
